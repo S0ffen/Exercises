@@ -1,5 +1,3 @@
-from re import X
-
 
 number = int(input("Give me a number: "))
 x = range(1,number+1)
